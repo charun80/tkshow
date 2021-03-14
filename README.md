@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://codeberg.org/monilophyta/tkshow" />
+
 
 # tkshow
 
